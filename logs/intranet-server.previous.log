@@ -1,0 +1,10 @@
+﻿[2026-06-05T17:01:30] Starting intranet server with Python: C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
+[2026-06-05T17:01:30] C:\Users\ADMIN\Documents\Phß║ºn mß╗üm lß║Ñy dß╗» liß╗çu doanh thu BCCP\device-inventory-web\server.py:3: DeprecationWarning: 'cgi' is deprecated and slated for removal in Python 3.13
+[2026-06-05T17:06:05] Starting intranet server with Python: C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
+[2026-06-05T17:06:07] C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+[2026-06-05T17:06:53] Starting intranet server with Python: C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
+[2026-06-05T17:06:56] C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+[2026-06-05T17:07:34] Starting intranet server with Python: C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
+[2026-06-05T17:07:37] C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+[2026-06-05T17:13:34] Starting intranet server with Python: C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
+[2026-06-05T17:13:37] C:\Users\ADMIN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
