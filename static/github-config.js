@@ -6,8 +6,8 @@
  *   https://nguyennam90.github.io/Check_thiet_bi/
  */
 const GITHUB_CONFIG = {
-  owner: "nguyennam90",
-  repo: "Check_thiet_bi",
+  owner: "ITVinhLong",
+  repo: "QuanLyTBVinhLong",
   branch: "main",
   dataFile: "data/inventory.json",
 };
