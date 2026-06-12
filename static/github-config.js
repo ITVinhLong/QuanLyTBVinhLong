@@ -3,7 +3,7 @@
  * Token được thiết lập qua giao diện ứng dụng và lưu trong localStorage của trình duyệt.
  *
  * URL GitHub Pages sau khi deploy:
- *   https://nguyennam90.github.io/Check_thiet_bi/
+ *   https://itvinhlong.github.io/QuanLyTBVinhLong/
  */
 const GITHUB_CONFIG = {
   owner: "ITVinhLong",
